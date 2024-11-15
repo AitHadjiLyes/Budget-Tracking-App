@@ -21,4 +21,14 @@ public class MainActivity extends AppCompatActivity {
             return insets;
         });
     }
+
+
+    public int iliesEstCon(int HowConIsHe){
+        return HowConIsHe;
+    }
+
+
 }
+
+
+
