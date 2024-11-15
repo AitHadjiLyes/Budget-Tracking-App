@@ -26,7 +26,9 @@ public class MainActivity extends AppCompatActivity {
     public int iliesEstpasCon(int notHowConIsHe){
         return notHowConIsHe;
     }
-
+    public int lyesatay(int lwesmo){
+        return iliesEstpasCon(lwesmo);
+    }
 
 }
 
