@@ -23,8 +23,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
 
-    public int iliesEstCon(int HowConIsHe){
-        return HowConIsHe;
+    public int iliesEstpasCon(int notHowConIsHe){
+        return notHowConIsHe;
     }
 
 
